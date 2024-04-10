@@ -21,3 +21,9 @@ scipy 1.9.1
 
 joblib 1.1.0
 
+You could find the SMAGS akgorithm in the "SMGAS.ipynb". In the file you could generate the same synthetic data and the corresponding fiures as well. 
+In addition, if you download the "CRC_Analysis.xlsx" in the same path as the jupyter notebook code, you would be able to run the real data example. 
+this data set is from:
+"""Cohen, J. D., Li, L., Wang, Y., Thoburn, C., Afsari, B., Danilova, L., ... & Papadopoulos, N. (2018). 
+Detection and localization of surgically resectable cancers with a multi-analyte blood test. Science, 359(6378), 926-930"""
+
