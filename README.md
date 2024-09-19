@@ -23,4 +23,6 @@ this data set is from:
 Detection and localization of surgically resectable cancers with a multi-analyte blood test. Science, 359(6378), 926-930"""
 
 
+The details of the method can be found here:
 
+https://www.biorxiv.org/content/10.1101/2024.04.12.589302v1.full.pdf
